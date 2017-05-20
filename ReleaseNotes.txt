@@ -1,0 +1,35 @@
+
+Version 2.6.4 [2017/04/13]
+- NEW: Added additional status codes.
+- NEW: Added additional column types to report field layout.
+- NEW: Added additional fields to the report FieldLayout and EventDataLayout.
+- NEW: Added Account-level SMTP properties.
+- NEW: Added additional fields to Device table.
+- NEW: Added additional fields to Driver table.
+- NEW: Added additional fields available for info-balloon display.
+- NEW: Added "setGroupByFields" to DBSelect.
+- NEW: Feature to display table records that do not have a valid Account owner.
+- NEW: Added optimizations to DailySummaryReport.
+- NEW: Added support for loading Pushpins from a directory.
+- FIX: Fixed path color specified in the Google static map support.
+- UPD: Update map link Google KML to use updated pushpin location.
+- DCS: Added "batteryVolts", "vBatteryVolts" field support to GPSEvent.java
+- FIX: Fixed DBRecordKey _getWhereClause when no keys specified and partial=all
+- DCS: tk10x] Fixed parsing check for VJoy devices (thanks to Xavier Descamps)
+
+-----------------------------------------------------------------------------------
+
+Project Home Page:
+    http://www.opengts.org
+
+Download Latest Version from SourceForge:
+    https://sourceforge.net/projects/opengts/
+
+Documentation (installation/configuration, tutorials, FAQ):
+    http://www.opengts.org/FAQ.html
+    http://www.opengts.org/documentation.html
+
+GTS Enterprise:
+    http://www.geotelematic.com/gts.html
+    http://www.geotelematic.com/documentation.html
+

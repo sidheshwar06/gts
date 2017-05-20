@@ -1,0 +1,62 @@
+[INFO_|05/12 13:46:41|StartupInit.preInitialization:134] Version: 2.6.4
+[INFO_|05/12 13:46:41|StartupInit.preInitialization:138] GTS_HOME: C:\OpenGTS_2.6.4
+[INFO_|05/12 13:46:41|OSTools.printMemoryUsage:1307] Memory-Mb: Max=1796.0, Total=123.0, Free=81.5, Used=41.5 [2%]
+[INFO_|05/12 13:46:42|RTConfigContextListener.contextInitialized:290] java.awt.headless=false
+[WARN_|05/12 13:48:21|RTConfigTag.getAttributeValue:447] RequestProperties is null!!!
+[WARN_|05/12 13:48:21|RTConfigTag.getAttributeValue:447] RequestProperties is null!!!
+[WARN_|05/12 13:48:21|RTConfigTag.getAttributeValue:447] RequestProperties is null!!!
+[WARN_|05/12 13:48:21|RTConfigTag.getAttributeValue:447] RequestProperties is null!!!
+[ERROR|05/12 13:48:21|TrackTag.doEndTag:506] RequestProperties not defined!
+[ERROR|05/12 13:48:21|TrackTag.doEndTag:506] RequestProperties not defined!
+[ERROR|05/12 13:48:21|TrackTag.doEndTag:506] RequestProperties not defined!
+[WARN_|05/12 13:48:21|RTConfigTag.getAttributeValue:447] RequestProperties is null!!!
+[WARN_|05/12 13:48:21|RTConfigTag.getAttributeValue:447] RequestProperties is null!!!
+[WARN_|05/12 13:48:21|RTConfigTag.getAttributeValue:447] RequestProperties is null!!!
+[WARN_|05/12 13:48:21|RTConfigTag.getAttributeValue:447] RequestProperties is null!!!
+[ERROR|05/12 13:48:21|TrackTag.doEndTag:506] RequestProperties not defined!
+[ERROR|05/12 13:48:21|TrackTag.doEndTag:506] RequestProperties not defined!
+[ERROR|05/12 13:48:21|TrackTag.doEndTag:506] RequestProperties not defined!
+[ERROR|05/12 13:48:21|TrackTag.doEndTag:506] RequestProperties not defined!
+[ERROR|05/12 13:48:21|TrackTag.doEndTag:506] RequestProperties not defined!
+[ERROR|05/12 13:48:21|TrackTag.doEndTag:506] RequestProperties not defined!
+[WARN_|05/12 13:48:21|RTConfigTag.getAttributeValue:447] RequestProperties is null!!!
+[WARN_|05/12 13:48:21|RTConfigTag.getAttributeValue:447] RequestProperties is null!!!
+[WARN_|05/12 13:48:21|RTConfigTag.getAttributeValue:447] RequestProperties is null!!!
+[INFO_|05/12 15:00:00|DBConnection.closeAllConnections:418] Closed all open DBConnections: 0
+[INFO_|05/12 15:00:01|RTConfigContextListener.contextDestroyed:322] Remaining pool threads [0]: 0
+[INFO_|05/12 15:00:01|RTConfigContextListener.contextDestroyed:325] ... Servlet Context destroyed: TrackWar
+[INFO_|05/12 15:00:01|RTConfigContextListener.contextDestroyed:326] -----------------------------------------------
+[INFO_|05/12 15:00:13|StartupInit.preInitialization:134] Version: 2.6.4
+[INFO_|05/12 15:00:13|StartupInit.preInitialization:138] GTS_HOME: C:\OpenGTS_2.6.4
+[INFO_|05/12 15:00:13|OSTools.printMemoryUsage:1307] Memory-Mb: Max=1796.0, Total=123.0, Free=102.3, Used=20.7 [1%]
+[INFO_|05/12 15:00:14|RTConfigContextListener.contextInitialized:290] java.awt.headless=false
+[INFO_|05/12 15:15:20|DBConnection.closeAllConnections:418] Closed all open DBConnections: 1
+[INFO_|05/12 15:15:21|RTConfigContextListener.contextDestroyed:322] Remaining pool threads [0]: 0
+[INFO_|05/12 15:15:21|RTConfigContextListener.contextDestroyed:325] ... Servlet Context destroyed: TrackWar
+[INFO_|05/12 15:15:21|RTConfigContextListener.contextDestroyed:326] -----------------------------------------------
+[INFO_|05/12 15:15:39|StartupInit.preInitialization:134] Version: 2.6.4
+[INFO_|05/12 15:15:39|StartupInit.preInitialization:138] GTS_HOME: C:\OpenGTS_2.6.4
+[INFO_|05/12 15:15:39|OSTools.printMemoryUsage:1307] Memory-Mb: Max=1796.0, Total=129.5, Free=116.9, Used=12.6 [1%]
+[INFO_|05/12 15:15:40|RTConfigContextListener.contextInitialized:290] java.awt.headless=false
+[INFO_|05/12 15:21:12|Track._doWork:1437] Invalid User: demo/demo
+[INFO_|05/12 15:21:12|Track._doWork:1523] Login[Failed]: Domain=default Account=demo User=demo Time=1494582672 IPAddr=127.0.0.1
+[INFO_|05/12 15:21:12|Audit.userLoginFailed:192] Login(Failed): Time=1494582672 Domain=default Account=demo User=demo IP=127.0.0.1 Notes=http://127.0.0.1:9999/track/Track
+[INFO_|05/12 15:21:19|Track._doWork:1437] Invalid User: demo/demo
+[INFO_|05/12 15:21:19|Track._doWork:1523] Login[Failed]: Domain=default Account=demo User=demo Time=1494582679 IPAddr=127.0.0.1
+[INFO_|05/12 15:21:19|Audit.userLoginFailed:192] Login(Failed): Time=1494582679 Domain=default Account=demo User=demo IP=127.0.0.1 Notes=http://127.0.0.1:9999/track/Track
+[INFO_|05/12 15:53:02|Track._doWork:1437] Invalid User: demo/demo
+[INFO_|05/12 15:53:02|Track._doWork:1523] Login[Failed]: Domain=default Account=demo User=demo Time=1494584582 IPAddr=127.0.0.1
+[INFO_|05/12 15:53:02|Audit.userLoginFailed:192] Login(Failed): Time=1494584582 Domain=default Account=demo User=demo IP=127.0.0.1 Notes=http://127.0.0.1:9999/track/Track
+[INFO_|05/12 15:54:15|Track._doWork:1437] Invalid User: sysadmin/sysadmin
+[INFO_|05/12 15:54:15|Track._doWork:1523] Login[Failed]: Domain=default Account=sysadmin User=sysadmin Time=1494584655 IPAddr=127.0.0.1
+[INFO_|05/12 15:54:15|Audit.userLoginFailed:192] Login(Failed): Time=1494584655 Domain=default Account=sysadmin User=sysadmin IP=127.0.0.1 Notes=http://127.0.0.1:9999/track/Track
+[INFO_|05/12 15:58:59|Track._doWork:1437] Invalid User: sysadmin/sysadmin
+[INFO_|05/12 15:58:59|Track._doWork:1523] Login[Failed]: Domain=default Account=sysadmin User=sysadmin Time=1494584939 IPAddr=127.0.0.1
+[INFO_|05/12 15:58:59|Audit.userLoginFailed:192] Login(Failed): Time=1494584939 Domain=default Account=sysadmin User=sysadmin IP=127.0.0.1 Notes=http://127.0.0.1:9999/track/Track
+[INFO_|05/12 15:59:15|Track._doWork:1573] Login SysAdmin: sysadmin/admin [From 127.0.0.1]
+[INFO_|05/12 15:59:15|OSTools.printMemoryUsage:1307] Memory-Mb: Max=1796.0, Total=184.5, Free=99.9, Used=84.6 [5%]
+[INFO_|05/12 15:59:15|Audit.userLoginOK:180] Login(OK): Time=1494584955 Domain=default Account=sysadmin User=admin IP=127.0.0.1 Notes=http://127.0.0.1:9999/track/Track
+[INFO_|05/12 16:02:33|DBConnection.closeAllConnections:418] Closed all open DBConnections: 1
+[INFO_|05/12 16:02:34|RTConfigContextListener.contextDestroyed:322] Remaining pool threads [0]: 0
+[INFO_|05/12 16:02:34|RTConfigContextListener.contextDestroyed:325] ... Servlet Context destroyed: TrackWar
+[INFO_|05/12 16:02:35|RTConfigContextListener.contextDestroyed:326] -----------------------------------------------
